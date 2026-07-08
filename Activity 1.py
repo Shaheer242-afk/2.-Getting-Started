@@ -1,0 +1,5 @@
+print("Welcome to Python")
+print(7)
+print("Hello \nGood Morning \nHow are you?")
+print("Python",end = " * ")
+print(" is a programming language.")
